@@ -75,6 +75,10 @@ li {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
+
+span a {
+  font-size: 0;
+}
 /* HERO */
 .hero {
   background-color: var(--navyblue);
