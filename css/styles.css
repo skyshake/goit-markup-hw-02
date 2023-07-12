@@ -104,6 +104,7 @@ span a {
   background: var(--iris, #4d5ae5);
   box-shadow: var(--rgb);
 }
+
 /* Section 1 */
 .title {
   color: var(--navyblue, #2e2f42);
