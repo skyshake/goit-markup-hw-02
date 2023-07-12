@@ -238,19 +238,21 @@ span a {
 }
 
 /* Content Section */
-.projects > h2 {
+.name {
   color: var(--navyblue, #2e2f42);
   font-family: Roboto;
   font-size: 20px;
-  font-style: normal;
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.4px;
 }
-.projects > p {
+.type {
   color: var(--slate, #434455);
   font-family: Roboto;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.32px;
+}
+.project {
+  text-decoration: none;
 }
