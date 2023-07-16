@@ -49,7 +49,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.nav-menu .page .nav-menu .page:hover,
+.nav-menu .page:hover,
 .nav-menu .page:focus,
 .contacts-menu .item:hover,
 .contacts-menu .item:focus {
@@ -151,7 +151,12 @@ body {
   background-color: var(--ocean);
   color: var(--cloud);
 }
+.button.filter.current {
+  background: var(--ocean);
+  color: var(--white);
+}
 
+/* PROJECTS */
 .project .name {
   font-size: 20px;
   font-weight: 500;
